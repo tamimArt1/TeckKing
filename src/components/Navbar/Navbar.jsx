@@ -23,6 +23,11 @@ const Navbar = () => {
               About
             </Text>
           </Link>
+          <Link to='/courses'>
+            <Text size='19px' weight='500' style={{ margin: '0 7px' }}>
+              Courses
+            </Text>
+          </Link>
           <Link to='/contact'>
             <Text size='19px' weight='500' style={{ margin: '0 7px' }}>
               Contact
